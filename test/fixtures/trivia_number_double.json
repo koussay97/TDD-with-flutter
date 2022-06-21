@@ -1,0 +1,6 @@
+{
+  "text": "748 is the number of 3×3 sliding puzzle positions that require exactly 12 moves to solve starting with the hole in a corner.",
+  "number": 1.0,
+  "found": true,
+  "type": "math"
+}
